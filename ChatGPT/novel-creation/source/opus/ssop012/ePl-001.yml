@@ -1,0 +1,911 @@
+- 🟥 scene: 1
+  scene descriptor: 居間での会話
+  scene gist:
+    - scene gist item: 地図帳
+    - scene gist item: 父が虐めのこと
+    - scene gist item: クラスメートとは趣味が合わなくて仲良くなれていないのが現実 => 中学生女子の趣味とは🟩ntt🟩
+    - scene gist item: 自分の趣味は誰にも言えない
+    - scene gist item: 友達を作りたいとは思っている　両親に報いたいし
+    - scene gist item: 主人公の笑みはいつからか温度のないものに感じられていた
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 主人公の事情説明、欲求の提示
+
+    scene interest:
+      - scene interest item: 主人公の重い状況
+
+    scene matters of desire:
+      - scene desire dn: 主人公
+        scene desire: 本当のことは言いたくない
+        scene conflict:
+          - scene conflict dn: 父
+            scene conflict desire: 本当のところが知りたい
+        scene risk: 本当のことを知られては心配させてしまう
+        scene results: 隠しとおす
+        scene gap: 悟られ
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: 現実を知られたくない
+        scene change: .--- \ .----
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 主人公の趣味とは
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: オープニング
+
+          beat performance:
+
+            - 部屋の描写
+            - 居間で読書　主人公と父
+            - 母はテレビ
+
+
+
+        - 🟨 beat:
+          beat descriptor: 父の声掛け
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: 気遣い
+                beat activity: 主人公に声を掛ける
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 何が言いたいか気づいて気が進まない
+                beat activity: 応える
+
+
+
+        - 🟨 narration:
+          beat descriptor: 小学校の頃
+          beat performance:
+            - 虐め
+            - 引っ越し
+
+
+
+        - 🟨 beat:
+          beat descriptor: 本題
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: 気を遣って婉曲的に
+                beat activity: 学校生活はどうかと尋ねる
+
+            - beat narration in beat:
+                - 両親のしてくれたことに報いないとという思い
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 言いにくい
+                beat activity: 誤魔化す
+
+
+
+        - 🟨 narration:
+          beat descriptor: 主人公の色褪せた笑顔
+          beat performance:
+            - みんなの趣味には興味がない
+            - 自分の趣味は言えない、馬鹿にされる
+            - 虐めのなかで逃げ込んだ趣味は内面的だった
+
+
+
+        - 🟨 beat:
+          beat descriptor: 余計気になる
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: おっかなびっくり、もう一歩踏み込む
+                beat activity: 前みたいなことはないのか
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 穏やかな拒絶
+                beat activity: 気にしないで大丈夫だから
+
+
+
+        - 🟨 narration:
+          beat descriptor: 秘密
+          beat performance:
+            - 学校の本当のことを言えば趣味も言うことになる
+
+
+
+- 🟥 scene: 2
+  scene descriptor: 母が受け取った荷物
+  scene gist:
+    - scene gist item: 荷物を母が受け取り、誰からかと問うと濁される
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 母の隠し事の伏線
+
+    scene interest:
+      - scene interest item: 母の不審で意味深な様子
+
+    scene matters of desire:
+      - scene desire dn: 母
+        scene desire: 荷物を知られたくない
+        scene conflict:
+          - scene conflict dn: 主人公
+            scene conflict desire: 興味がある
+        scene risk: 知られたら軽蔑されるかも
+        scene results: 知られない
+        scene gap: 勘繰られている
+
+    scene value change:
+      - scene value dn: 母
+        scene value: 知られたくない
+        scene change: .--- / --
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 母の荷物とは
+
+  scene elements:
+
+        - 🟨 narration:
+          beat descriptor: 宅配便
+          beat performance:
+            - チャイム
+            - 祖父母からなら食べ物だ
+            - 少しして戻ってくる母は荷物を持っていない
+
+
+
+        - 🟨 beat:
+          beat descriptor: 興味
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 気軽
+                beat activity: 何が届いたか尋ねる
+
+            - beat reaction:
+              - beat dn: 母
+                beat tone: ごまかし
+                beat activity: なんでもない
+
+
+
+        - 🟨 narration:
+          beat descriptor: 気づき
+          beat performance:
+            - 気づき
+            - 微妙な空気
+
+
+
+        - 🟨 beat:
+          beat descriptor: 念押し
+          beat performance:
+
+            - beat action:
+              - beat dn: 母
+                beat tone: 誤魔化しの蛇足
+                beat activity: 同窓会の役員だから
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 隠したいのだと確信
+                beat activity: へぇそうなの――聞いたことがない
+
+
+
+- 🟥 scene: 3
+  scene descriptor: 自室で異世界を
+  scene gist:
+    - scene gist item: 歴史
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 主人公の秘密の提示
+
+    scene interest:
+      - scene interest item: 意識しすぎな主人公
+
+    scene matters of desire:
+      - scene desire dn: 主人公
+        scene desire: 誰にも趣味を知られたくない
+        scene conflict:
+          - scene conflict dn: クラスメートや家族
+            scene conflict desire: 秘密を知ろうとしている気がする
+        scene risk: 知られれば馬鹿にされる
+        scene results: 不安が残る
+        scene gap: null
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: 趣味を知られるのが怖い
+        scene change: .--- - .----
+        scene value note: よけいに怖くなってくる
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 主人公の趣味はバレるのか
+
+  scene elements:
+
+        - 🟨 narration:
+          beat descriptor: 自室スタート
+          beat performance:
+            - 自室描写
+            - 疲れた様子
+
+
+
+        - 🟨 beat:
+          beat descriptor: ため息
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 困り果てる
+                beat activity: どうすればいいんだろう
+
+            - beat reaction:
+              - beat dn: 
+                beat tone: 
+                beat activity: 誰も答えてはくれない、事情を知って答えられても困るというもの
+
+
+
+        - 🟨 narration:
+          beat descriptor: ノート
+          beat performance:
+            - 鞄からノートを取り出す
+            - 笑み
+            - 大切そうに開く
+            - しばらく眺めてため息
+
+
+
+        - 🟨 beat:
+          beat descriptor: やっぱり……
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: バンジージャンプを拒むような
+                beat activity: こんなの誰にも見せられない
+
+
+
+        - 🟨 narration:
+          beat descriptor: ノートの正体
+          beat performance:
+            - 架空世界の歴史
+            - 群雄割拠のなかの輝かしい英雄たち
+            - ため息
+            - 眺めているうちに引き込まれていく
+
+
+
+- 🟥 scene: 4
+  scene descriptor: 学校の廊下での出来事
+  scene gist:
+    - scene gist item: ノートを拾われる　ノートは筆記面を上にして開いている
+    - scene gist item: ハンカチで丁寧に拭いて返される
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 事件の発生
+
+    scene interest:
+      - scene interest item: バレたかもしれない
+
+    scene matters of desire:
+      - scene desire dn: 主人公
+        scene desire: バレたくない
+        scene conflict:
+          - scene conflict dn: 相手役
+            scene conflict desire: 秘密を暴こうとしているかもしれないという主人公の思い
+        scene risk: バレたら馬鹿にされる
+        scene results: ハンカチで拭いて返される
+        scene gap: 意味が分からない
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: バレたくない
+        scene change: .--- \ .----
+        scene value note: 謎が生まれる
+
+    scene unpredictability of the end:
+      - scene unpredictability item: バレたのかどうか
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 学校の廊下スタート
+          beat performance:
+            - 明るい廊下と事件との対非
+            - 廊下を一人歩く
+            - ノートは勝手に机の中を見られるのではと恐ろしく持ち歩いている
+            - 母のことを考えさせる
+
+
+
+        - 🟨 beat:
+          beat descriptor: 思いにふける
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 真剣
+                beat activity: 何を隠しているのか
+
+
+
+        - 🟨 narration:
+          beat descriptor: 指摘
+          beat performance:
+            - 主人公自身が他人の秘密に興味津々なことが、自分に対して他人が興味を持っていると感じる原因だ
+
+
+
+        - 🟨 beat:
+          beat descriptor: 思いあたり
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 気づきの嬉しさ
+                beat activity: ドールだ！
+
+
+
+        - 🟨 narration:
+          beat descriptor: 事件の始まり
+          beat performance:
+            - ノートを持つ力が抜けて落としてしまう
+            - 振り返ると開かれて落ちている　思いのほか距離がある
+            - 相手役と目が合った
+
+
+
+        - 🟨 beat:
+          beat descriptor: 事件の瞬間 1
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 焦り
+                beat activity: 一歩踏み出す
+
+            - beat reaction:
+              - beat dn: 相手役
+                beat tone: 無表情
+                beat activity: 急いだ様子でサッと拾う
+
+
+
+        - 🟨 beat:
+          beat descriptor: 事件の瞬間 2
+          beat performance:
+
+            - beat action:
+              - beat dn: 相手役
+                beat tone: 無表情
+                beat activity: 主人公には一瞬視線がページに留まった気がした
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: パニック
+                beat activity: 動けない
+
+
+
+        - 🟨 beat:
+          beat descriptor: 事件の瞬間 3
+          beat performance:
+
+            - beat action:
+              - beat dn: 相手役
+                beat tone: 無表情
+                beat activity: ノートを閉じてハンカチで払うように拭く
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: パニック
+                beat activity: ただ見ている
+
+
+
+        - 🟨 beat:
+          beat descriptor: 事件の終わり
+          beat performance:
+
+            - beat action:
+              - beat dn: 相手役
+                beat tone: 無表情
+                beat activity: 気をつけなさいと言い返してくれる
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 茫然自失
+                beat activity: 受け取って礼も言えない
+
+
+
+        - 🟨 narration:
+          beat descriptor: その語
+          beat performance:
+            - あの瞬間の相手役の目を覚えている
+            - 何色にも染まらない無色透明の視線
+            - この日はただ状況に流されるままに過ぎていった
+
+
+
+- 🟥 scene: 5
+  scene descriptor: 自室での微かな葛藤
+  scene gist:
+    - scene gist item: 友達になりたいけど声を掛けるのは諦めよう
+    - scene gist item: 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 勇気が引っ込む
+
+    scene interest:
+      - scene interest item: 懊悩
+
+    scene matters of desire:
+      - scene desire dn: 主人公
+        scene desire: 親切にされたし友達になりたい　なれるかも
+        scene conflict:
+          - scene conflict dn: 相手役
+            scene conflict desire: 馬鹿にされるかも
+        scene risk: 馬鹿にされたら立ち直れない
+        scene results: 諦める
+        scene gap: 諦めきれない思いの欠片
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: 友達になりたい
+        scene change: .--- \ .----
+        scene value note: 友達にはなれない……たぶん……
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 心残りな部分がどうなるのか
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 自室スタート
+          beat performance:
+            - 自室の、主人公の心情を反映した雰囲気
+
+
+
+        - 🟨 beat:
+          beat descriptor: 確信
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 確信
+                beat activity: 相手役は中を見た、そのうえでハンカチで拭いた
+
+
+
+        - 🟨 narration:
+          beat descriptor: 思考の渦のなか
+          beat performance:
+            - 内容に気づいてない可能性
+            - あの気をつけなさいが意味深に感じられる　だって言わなくてもいい言葉だから　不自然とも思える
+            - それでいてハンカチで拭いた
+
+
+
+        - 🟨 beat:
+          beat descriptor: 希望
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 希望
+                beat activity: 友達になれるかもしれない　話し掛けたら
+
+
+
+        - 🟨 narration:
+          beat descriptor: 拒絶
+          beat performance:
+            - 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+
+
+
+        - 🟨 beat:
+          beat descriptor: 怖じ気づく
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 奇妙な安心感
+                beat activity: やめておこう　今行動を起こさなくてもいい　もっといい機会があるはず
+
+
+
+        - 🟨 narration:
+          beat descriptor: フォロー
+          beat performance:
+            - 今の本人にとって命に関わるような問題になっている　安全策は当然だったのかもしれない
+
+
+
+- 🟥 scene: 6
+  scene descriptor: 社会の時間に
+  scene gist:
+    - scene gist item: 目が合う
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 相手役は知っているかも
+
+    scene interest:
+      - scene interest item: 相手役は知っているかも
+
+    scene matters of desire:
+      - scene desire dn: null
+        scene desire: null
+        scene conflict:
+          - scene conflict dn: null
+            scene conflict desire: null
+        scene risk: null
+        scene results: null
+        scene gap: null
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: もし知っていてあの態度なら
+        scene change: .--- / .+
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 相手役は知っているのか
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 社会の時間スタート
+          beat performance:
+            - 社会の授業は好きだった
+            - 無心に取り組める
+            - 相手役が当てられる　読め
+
+
+
+        - 🟨 beat:
+          beat descriptor: 無意識
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 奇妙な気持ち　特別さ
+                beat activity: 相手役に注目する
+
+            - beat reaction:
+              - beat dn: 相手役
+                beat tone: 無表情
+                beat activity: 主人公を見て目が合う
+
+
+
+        - 🟨 narration:
+          beat descriptor: 心理
+          beat performance:
+            - 相手役の、私は一歩踏み込んだ、次はあなたの番　そうすれば――と言っている気がする
+            - 取りも直さず主人公が心の深くでそう思っているということだった
+
+
+
+- 🟥 scene: 7
+  scene descriptor: 団欒の食卓で
+  scene gist:
+    - scene gist item: 母が小説を書いていると話す　R18BL
+    - scene gist item: 母の必死の形相
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: エンパワーメント
+
+    scene interest:
+      - scene interest item: 母の必死の様子
+
+    scene matters of desire:
+      - scene desire dn: 母
+        scene desire: 受け入れてほしい
+        scene conflict:
+          - scene conflict dn: 主人公と父
+            scene conflict desire: 軽蔑されるかもしれない
+        scene risk: 軽蔑される
+        scene results: 受け入れられる
+        scene gap: 主人公の笑みが明るく見えた
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: 勇気
+        scene change: .--- / .+
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 主人公の思い
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 団欒の食卓スタート
+          beat performance:
+            - 時は過ぎ団欒
+            - 食事は皆食べ終わり茶を飲むなどしている
+            - 母が切り出す
+
+
+
+        - 🟨 beat:
+          beat descriptor: 母の告白 1
+          beat performance:
+
+            - beat action:
+              - beat dn: 母
+                beat tone: 決死
+                beat activity: 告白し始める
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 気持ちの高ぶり　緊張
+                beat activity: 黙って聞く
+
+            - beat post-reaction:
+              - beat dn: 父
+                beat tone: 温和
+                beat activity: 黙って聞く
+
+
+
+        - 🟨 beat:
+          beat descriptor: 母の告白 2
+          beat performance:
+
+            - beat action:
+              - beat dn: 母
+                beat tone: 真摯
+                beat activity: 打ち明ける　書籍　献本
+
+            - beat reaction:
+              - beat dn: 主人公
+                beat tone: 驚き
+                beat activity: すごい！
+
+            - beat post-reaction:
+              - beat dn: 父
+                beat tone: 落ち着いて
+                beat activity: 小説を書いている人は身近な人に打ち明けるか迷うものらしいね
+
+
+
+        - 🟨 beat:
+          beat descriptor: 反応
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 興味津々
+                beat activity: 読ませて！
+
+            - beat reaction:
+              - beat dn: 母
+                beat tone: 困った様子
+                beat activity: R18
+
+            - beat post-reaction:
+              - beat dn: 主人公
+                beat tone: 納得
+                beat activity: それは言いにくいはずだ　大人になったら読ませて
+
+
+
+        - 🟨 beat:
+          beat descriptor: 父の申し出
+          beat performance:
+
+            - beat action:
+              - beat dn: 父
+                beat tone: 気軽
+                beat activity: 俺には読ませてくれるだろ
+
+            - beat reaction:
+              - beat dn: 母
+                beat tone: 困った様子
+                beat activity: BL
+
+            - beat post-reaction:
+              - beat dn: 主人公
+                beat tone: 理解の深まり
+                beat activity: 言いにくいはずだ
+
+
+
+- 🟥 scene: 8
+  scene descriptor: 自室での葛藤
+  scene gist:
+    - scene gist item: 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+    - scene gist item: 母の勇気を思う
+    - scene gist item: 決心する
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 静かな決心
+
+    scene interest:
+      - scene interest item: 明るいビジョン
+
+    scene matters of desire:
+      - scene desire dn: 主人公
+        scene desire: 勇気を出したい
+        scene conflict:
+          - scene conflict dn: 馬鹿にしてくるかもしれない相手役
+            scene conflict desire: さげすみ
+        scene risk: 決心できない
+        scene results: 決心する
+        scene gap: なし
+
+    scene value change:
+      - scene value dn: 主人公
+        scene value: 決心
+        scene change: .+ / .+++++
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 結果はどうなるのか
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 自室スタート
+          beat performance:
+            - 主人公の気持ちを反映した自室の雰囲気
+            - 告白された驚きと、内容への驚き
+
+
+
+        - 🟨 beat:
+          beat descriptor: 自分も
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 心配
+                beat activity: 急に話し掛けたら変だと思われる、迷惑がられる、拒絶されるのが怖い
+
+            - beat reaction:
+              - beat dn: 母を思う
+                beat tone: 真摯な母
+                beat activity: 応援されているようだった
+
+
+
+        - 🟨 beat:
+          beat descriptor: 決心
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: まなじりを決する
+                beat activity: 決心　明日挨拶する　それで話してみる
+
+
+
+        - 🟨 narration:
+          beat descriptor: フォロー
+          beat performance:
+            - 本人には大きな一歩　そしてその人生において最大の分岐点なのかもしれない
+
+
+
+- 🟥 scene: 9
+  scene descriptor: 登校
+  scene gist:
+    - scene gist item: 出掛けの言葉「お母さん、ありがとう」
+
+  scene configuration:
+
+    scene meaning of the scene:
+      - scene meaning item: 加速して投げ放つ
+
+    scene interest:
+      - scene interest item: 主人公の明るい様子
+
+    scene matters of desire:
+      - scene desire dn: null
+        scene desire: null
+        scene conflict:
+          - scene conflict dn: null
+            scene conflict desire: null
+        scene risk: null
+        scene results: null
+        scene gap: null
+
+    scene value change:
+      - scene value dn: 母
+        scene value: 娘の幸福
+        scene change: .- / .+++++
+
+    scene unpredictability of the end:
+      - scene unpredictability item: 結果がどうなるのか
+
+  scene elements:
+
+    - 🟧 beat group: 
+      beat contents:
+
+        - 🟨 narration:
+          beat descriptor: 朝スタート
+          beat performance:
+            - ダイニングキッチンの様子　主人公の気持ちを反映した
+            - ダイニングキッチンから出る　時間になった
+            - ドアまで歩き
+
+        - 🟨 beat:
+          beat descriptor: 不意に
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 快活
+                beat activity: ありがとう
+
+            - beat reaction:
+              - beat dn: 母
+                beat tone: 不思議
+                beat activity: どうしたの？
+
+
+
+        - 🟨 beat:
+          beat descriptor: 宣言
+          beat performance:
+
+            - beat action:
+              - beat dn: 主人公
+                beat tone: 決心
+                beat activity: 私頑張るから　じゃあ行ってきます
+
+        - 🟨 narration:
+          beat descriptor: フォロー
+          beat performance:
+            - きっと明るい未来が待っている　主人公には確信があった
+
+
