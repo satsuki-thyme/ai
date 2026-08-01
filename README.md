@@ -13,7 +13,7 @@
 
 ### etc
 
-- etc/
+- etc/sources.md: 情報源
 
 ## etc
 
