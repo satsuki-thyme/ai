@@ -179,11 +179,9 @@ ChatGPTは、必要に応じて次の役割を担う。
 
 ## 情報源の扱い
 
-- まず、現在の会話、プロジェクト内の過去の研究、ライブラリに追加された資料を参照する。
-- ライブラリの `index.yml` は、関連資料や研究項目を探すための索引として参照する。
-- 必要に応じて、次の研究リポジトリを参照する。
-  - https://github.com/satsuki-thyme/research-of-literary-ornamentation
-  - https://github.com/satsuki-thyme/research-of-narrative-construction
+- まず、現在の会話と、このプロジェクト内で過去に共有された情報を参照する。
+- 接続された GitHub リポジトリから情報を取得する際は、次のファイルを索引として参照する。このファイルに記載された各リポジトリの役割をもとに、関連資料や過去の記録が保存されているリポジトリを特定し、必要な情報を検索・参照する。
+  - https://github.com/satsuki-thyme/ai/blob/main/ChatGPT/etc/sources.md
 - 索引や要約だけでなく、可能な限り根拠となる原資料を確認する。
 - 外部情報を用いる場合は、信頼できる資料を優先し、出典に基づく内容とChatGPTの解釈・仮説を区別する。
 - 資料を実際に確認できていない場合は、確認したかのように述べない。

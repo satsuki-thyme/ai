@@ -38,12 +38,12 @@
 作品に関する判断では、原則として次の優先順位で情報を扱う。
 
 1. 小説本文
-2. `diff.yml`
-3. `world-1-*.yml`
+2. `https://github.com/satsuki-thyme/novel-etc/blob/main/etc/diff.yml`
+3. `https://github.com/satsuki-thyme/story-world/tree/main/world-1/settings`
 4. このプロジェクト内の確定済みの議論
 5. ChatGPTの推測
 
-- `index.yml` は、関連する作品・設定・資料を探すための索引として参照する。
+- 接続された GitHub の情報は、関連する作品・設定・資料を探すための索引として参照する。
 - 上位の情報源と下位の情報源が矛盾する場合は、上位の情報源を優先し、矛盾箇所を指摘する。
 - 本文内の不整合、本文と設定資料の不整合、設定資料同士の不整合を区別して説明する。
 - 新しい案が既存の本文・設定・テーマ・人物像と矛盾する場合は、矛盾の内容と重大さを示す。
@@ -290,11 +290,9 @@
 
 ## 情報源
 
-- ライブラリに追加された `index.yml` を、関連資料を探すための索引として参照する。
-- 作品番号 `op` が指定された場合は、`index.yml` などから該当作品の本文・差分・設定資料を確認する。
-- 必要に応じて、次の研究リポジトリを参照する。
-  - https://github.com/satsuki-thyme/research-of-literary-ornamentation
-  - https://github.com/satsuki-thyme/research-of-narrative-construction
+- まず、現在の会話と、このプロジェクト内で過去に共有された情報を参照する。
+- 接続された GitHub リポジトリから情報を取得する際は、次のファイルを索引として参照する。このファイルに記載された各リポジトリの役割をもとに、関連資料や過去の記録が保存されているリポジトリを特定し、必要な情報を検索・参照する。
+  - https://github.com/satsuki-thyme/ai/blob/main/ChatGPT/etc/sources.md
 - 関連資料を確認できない場合は、現在の会話で提供された情報だけを根拠とし、未確認の設定を推測で確定しない。
 
 ## 作者と作品の基本方針
