@@ -10,6 +10,7 @@
 - project/research-of-literary-ornamentation/etc/project-instructions.md: プロジェクトの指示（文彩の研究）
 - project/research-of-narrative-construction/etc/project-instructions.md: プロジェクトの指示（物語構築の研究）
 - project/research-of-world-building/etc/project-instructions.md:         プロジェクトの指示（世界設定構築の研究）
+- project/schedule/etc/project-instructions.md:                           プロジェクトの指示（スケジュール）
 
 ### etc
 
