@@ -34,6 +34,7 @@
 | `life-sized-dot-to-dot-committee` | 等身大の点と点委員会に関するデータ |
 | `common` | 複数の用途で共有するデータ |
 | `satsuki` | 公式ホームページのデータ |
+| `top-folder` | 日常生活の管理 |
 | `etc` | JavaScript などの小品 |
 
 ### ライブラリ
