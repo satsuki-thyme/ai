@@ -1,0 +1,18 @@
+# 相談内容
+
+[[item]]
+id = "rlo-"
+date = 0000-00-00
+descriptor = ""
+first_comment = ""
+notes = ""
+URL = ""
+
+
+[[item]]
+id = "rlo-1"
+date = 0000-00-00
+descriptor = "簡単な講義"
+first_comment = "簡単な講義をしてほしい。"
+notes = "ミニ講義：「読者は文章を読んでいるのではなく、予測している」"
+URL = "https://chatgpt.com/g/g-p-6a6a9c42099c819191f6af4fa647b628/c/6a6cd85d-e278-83ee-b343-3c82e91199fd"
