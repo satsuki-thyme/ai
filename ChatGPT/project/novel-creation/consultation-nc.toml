@@ -1,0 +1,77 @@
+# 相談内容
+
+[[item]]
+id = "nc-"
+date = 0000-00-00
+chat-type = ""
+op = ""
+descriptor = ""
+first_comment = ""
+notes = ""
+URL = ""
+
+
+[[item]]
+id = "nc-6"
+date = 2026-07-29
+chat-type = "indv"
+op = "op72"
+descriptor = "op72の評価"
+first_comment = "作品を評価して。"
+notes = "指摘された問題点も含めて狙いどおりの部分が大きい。他方で世界設定を詰め込みすぎというのは理解していなかったポイントだ。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a69014a-feb4-83e8-9b8a-70cc2755e3ff"
+
+
+[[item]]
+id = "nc-5"
+date = 2026-07-28
+chat-type = "idea"
+op = ""
+descriptor = "恍惚ダンサー"
+first_comment = "シャーマンが現代なら違法な薬物を含んだ煙を吸ってジョーゼフ・キャンベルが言うところの恍惚ダンサーになっている様子を描けば原始的な空間を演出できるかもしれない。"
+notes = "妥当な回答を得た。分析されていてアイデアを使いやすい。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a684fd7-7b70-83ee-ba61-d2c6cb1ee1ef"
+
+
+[[item]]
+id = "nc-4"
+date = 2026-07-28
+chat-type = "idea"
+op = ""
+descriptor = "森林世界"
+first_comment = "無限に広がる森林世界を開拓していく話。"
+notes = "有益な回答が得られた。知識は少なくて済みそうだけど大胆なアイデアが要求されそう。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a682d9c-ea94-83ee-86d6-4b98e60a678d"
+
+
+[[item]]
+id = "nc-3"
+date = 2026-07-28
+chat-type = "idea"
+op = ""
+descriptor = "都市国家世界"
+first_comment = "国が都市国家だけの世界。"
+notes = "有益な回答が得られた。戦争や外交や商業について多くの知識が必要とされそう。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a682cac-895c-83ee-b86f-de4aad680569"
+
+
+[[item]]
+id = "nc-2"
+date = 2026-07-28
+chat-type = "idea"
+op = ""
+descriptor = "ドローン傭兵団"
+first_comment = "現代の学生や社会人で組織するドローン傭兵団。高額で困難なミッションを遂行する。ドローンの操縦そのものや、ネットワークでの匿名性維持などが物語の主体になる。"
+notes = "有意な回答が得られた。専門知識が要求されそうで学びの時間がかかりそう。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a682af4-f2d4-83ee-b4be-88c85a923fec"
+
+
+[[item]]
+id = "nc-1"
+date = 2026-07-28
+chat-type = "idea"
+op = ""
+descriptor = "ラブコメ"
+first_comment = "主人公を好きなヒロインが主人公に恋愛ごっこを持ちかける。ヒロインが言うには「私のこと絶対好きにならないで」とのこと。愛が失われたとき耐えられないと思うから。しかし程なくしてヒロインを好きになる主人公。このことを悟られてはいけない。"
+notes = "有意な回答が得られた。"
+URL = "https://chatgpt.com/g/g-p-6a67772fe9a88191b83d72880ef74c6e/c/6a6829b2-d728-83e8-af71-70c663efedb5"
