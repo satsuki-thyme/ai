@@ -10,6 +10,15 @@ URL = ""
 
 
 [[item]]
+id = "com-3"
+date = 2026-08-02
+descriptor = "世界観の設定方法"
+first_comment = "小説で世界観を設定するにはどんなふうにするの？"
+notes = ""
+URL = "https://chatgpt.com/g/g-p-6a6a629a96488191b598991810551e20-zong-he/c/6a6edc53-4db0-83e8-a5de-f9513597c54c"
+
+
+[[item]]
 id = "com-2"
 date = 0000-00-00
 descriptor = "存在論の基礎学習"
