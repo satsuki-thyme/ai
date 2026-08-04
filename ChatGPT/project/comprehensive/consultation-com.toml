@@ -10,6 +10,15 @@ URL = ""
 
 
 [[item]]
+id = "com-4"
+date = 2026-08-03
+descriptor = "信頼しないキャラクター"
+first_comment = "物語のキャラクターで、なんでも一人でできてしまうがゆえに人を信頼することを知らない人というのはどんなことを一人でするだろうか。"
+notes = ""
+URL = "https://chatgpt.com/g/g-p-6a6a629a96488191b598991810551e20/c/6a7033d7-fc74-83e8-a98e-f60a50bce831"
+
+
+[[item]]
 id = "com-3"
 date = 2026-08-02
 descriptor = "世界観の設定方法"
