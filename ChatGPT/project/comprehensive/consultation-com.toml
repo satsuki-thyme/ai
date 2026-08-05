@@ -10,6 +10,22 @@ URL = ""
 
 
 [[item]]
+id = "com-5"
+date = 2026-08-05
+descriptor = "スケジュール調整"
+first_comment = """\
+- 次の指示書ファイルを変更して。
+  - `Dropbox\ai\ChatGPT\project\schedule\instructions-sch.md`
+- 変更内容
+  - 早朝枠の予定を2:00から5:00まで（project）
+  - 6:30から8:00までを朝寝（others）
+  - 午前の予定を9:30から11:30まで（op）
+  - 12:00から13:30を昼寝（others）"""
+notes = ""
+URL = ""
+
+
+[[item]]
 id = "com-4"
 date = 2026-08-03
 descriptor = "信頼しないキャラクター"
