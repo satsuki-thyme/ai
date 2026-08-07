@@ -10,6 +10,15 @@ URL = ""
 
 
 [[item]]
+id = "com-6"
+date = 2026-08-06
+descriptor = "頼るとは"
+first_comment = "頼るとはどういうこと？"
+notes = ""
+URL = ""
+
+
+[[item]]
 id = "com-5"
 date = 2026-08-05
 descriptor = "スケジュール調整"

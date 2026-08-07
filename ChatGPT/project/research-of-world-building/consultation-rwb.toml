@@ -1,0 +1,25 @@
+# 相談内容
+
+[[item]]
+id = "rwb-"
+date = 0000-00-00
+descriptor = ""
+first_comment = ""
+notes = """\
+"""
+URL = ""
+
+
+[[item]]
+id = "rwb-1"
+date = 2026-08-08
+descriptor = "面白い世界観"
+first_comment = "世界観を示すのに、具体的にどんなことを描くのが面白さにつながるだろうか。"
+notes = """\
+「その世界の特殊条件によって変化した、人間にとって身近な行動・常識・欲望・危険・選択」
+1. 日常の変形
+2. 欲望と危険
+3. 常識
+4. 制約への対処
+5. 世界固有の選択"""
+URL = "https://chatgpt.com/g/g-p-6a761ba02408819194adced750b44432-shi-jie-she-ding-noyan-jiu-f/c/6a76211b-8504-83e8-a033-f73bedd3ba65"

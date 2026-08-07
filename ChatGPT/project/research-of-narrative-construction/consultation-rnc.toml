@@ -10,9 +10,18 @@ URL = ""
 
 
 [[item]]
+id = "rnc-2"
+date = 2026-08-07
+descriptor = "情報設計の講義"
+first_comment = "情報設計について講義して。"
+notes = ""
+URL = ""
+
+
+[[item]]
 id = "rnc-1"
 date = 0000-00-00
-descriptor = "情報の種類について"
+descriptor = "情報設計"
 first_comment = "次に研究するテーマにふさわしいものはある？"
 notes = """\
 m: 「情報公開のタイミング」が気になるけど、その前に情報には何があるかを知る必要がある。「情報の種類」について思考したい。ヒントを与えてほしい。
