@@ -8,6 +8,10 @@
 
 - project/comprehensive/instructions-com.md: プロジェクトの指示
 
+#### 作品の評価
+
+- project/evaluation-of-novel/instructions-eon.md: プロジェクトの指示
+
 #### 小説制作
 
 - project/novel-creation/consultation-nc.toml: 相談内容
@@ -38,4 +42,4 @@
 
 ## etc
 
-- diaplay.yml: AI利用の表示
+- etc/display.yml: AI利用の表示
