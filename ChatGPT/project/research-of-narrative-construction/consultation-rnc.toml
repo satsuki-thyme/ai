@@ -5,9 +5,36 @@ id = "rnc-"
 date = 0000-00-00
 descriptor = ""
 first_comment = ""
+attached_file = []
 notes = ""
 URL = ""
+assets = []
 
+[[item]]
+id = "rnc-4"
+date = 2026-08-28
+descriptor = "第1講「物語の最小構造」"
+first_comment = "attached_file を参照して。"
+attached_file = [
+  'Dropbox\ai\ChatGPT\project\research-of-narrative-construction\assets\rnc-3-1.md'
+]
+notes = "途中"
+URL = "https://chatgpt.com/g/g-p-6a6a9768af4881919e043cfdf46edd95-wu-yu-gou-zhu-noyan-jiu-f/c/6a906d46-6170-83e8-9dcb-3f90a2579cb7"
+assets = []
+
+[[item]]
+id = "rnc-3"
+date = 2026-08-28
+descriptor = "振り出し"
+first_comment = "物語構築の講義について、前回の講義から時間が空いてしまったらか振り出しに戻って再スタートしたいんだ。まずは講義の項目を提案してほしい。そのうえで橋渡しになるプロンプトを生成してもらう流れにしたい。"
+notes = "橋渡し"
+URL = "https://chatgpt.com/c/6a90657b-00b4-83e8-a119-ddbea6b4ced1"
+assets = [
+  {
+    file = "rnc-3-1.md"
+    descriptor = "物語構築の講義・再スタート用プロンプト"
+  }
+]
 
 [[item]]
 id = "rnc-2"
@@ -16,7 +43,6 @@ descriptor = "情報設計の講義"
 first_comment = "情報設計について講義して。"
 notes = ""
 URL = ""
-
 
 [[item]]
 id = "rnc-1"
