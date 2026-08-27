@@ -161,11 +161,15 @@ id = "rnc-<number>"
 date = "<YYYY-MM-DD>"
 descriptor = ""
 first_comment = ""
+attached_file = [
+  '<path-to-file>'
+]
 ```
 
 - `<number>`には数字を入れる。
 - チャットのタイトルは、`id`と`descriptor`の値を半角スペース1個でつないだものとする。
 - `first_comment`は最初の相談内容を示す。
+- `path-to-file`は添付ファイルを示す。
 - 宣言に誤記や不足があっても、研究内容を安全に判断できる場合は相談を進める。回答や記録が大きく変わる場合だけ確認する。
 
 ## 情報不足・矛盾・アクセス不能への対応
