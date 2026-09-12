@@ -23,9 +23,9 @@
 
 | フォルダ名 | 内容 |
 |---|---|
+| `Dropbox\scribe\novel\novel-etc` | 小説に関するその他の情報 |
 | `Dropbox\scribe\novel\story-world` | 小説作品の世界設定 |
 | `Dropbox\scribe\project\novel-creating-method` | 小説の制作手法 |
-| `Dropbox\scribe\novel\novel-etc` | 小説に関するその他の情報 |
 | `Dropbox\scribe\project\research-of-literary-ornamentation` | 文彩の研究 |
 | `Dropbox\scribe\project\research-of-narrative-construction` | 物語構築の研究 |
 | `Dropbox\scribe\project\research-of-novel-creation` | 小説制作の研究 |
