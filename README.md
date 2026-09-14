@@ -4,7 +4,6 @@
 
 ### プロジェクト
 
-- ChatGPT/project/brain-activating-dialogue/instructions-bad.md:            プロジェクトの指示（脳起動対話）
 - ChatGPT/project/analytics-of-novels-on-novel-site/instructions-aon.md:    プロジェクトの指示（小説サイトの小説の分析）
 - ChatGPT/project/comprehensive/instructions-com.md:                        プロジェクトの指示（総合）
 - ChatGPT/project/evaluation-of-scenario/instructions-eos.md:               プロジェクトの指示（シナリオの評価）
@@ -20,6 +19,7 @@
 - ChatGPT/project/research-of-world-building/instructions-rwb.md:           プロジェクトの指示（世界設定構築の研究）
 - ChatGPT/project/schedule/instructions-sch.md:                             プロジェクトの指示（スケジュール）
 - ChatGPT/project/summarize/instructions-sum.md:                            プロジェクトの指示（要約）
+- ChatGPT/project/worm-up-dialogue/instructions-wad.md:                     プロジェクトの指示（ウォームアップダイアログ）
 - ChatGPT/project/work-log/instructions-wl.md:                              プロジェクトの指示（作業記録更新）
 
 ### etc

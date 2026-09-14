@@ -1,7 +1,5 @@
 # management
 
 - task
-  - reserve
-  - await
-  - archive
-  - void
+- archive
+
