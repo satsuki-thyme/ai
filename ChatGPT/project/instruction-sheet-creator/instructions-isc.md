@@ -95,8 +95,8 @@
 ## GitHub APIによる反映
 
 - GitHub のリポジトリ、ブランチ、コミット、ファイルの参照と変更は、接続済みアカウントの GitHub API だけで行う。Git コマンドやローカル作業ツリーは使用しない。
-- `Dropbox\ai` は GitHub リポジトリ `satsuki-thyme/ai` のルートに対応する。`Dropbox\ai\` 以下のファイルは、その接頭辞を除き、区切りを `/` にした相対パスを同リポジトリ内のファイルパスとして扱う。たとえば `Dropbox\ai\ChatGPT\project\instruction-sheet-creator\instructions-isc.md` は `ChatGPT/project/instruction-sheet-creator/instructions-isc.md` に対応する。
-- `Dropbox\ai` 外のファイル、またはこの対応規則と矛盾するファイルは、ユーザーの明示した対応または確認済みの資料から一意に対応付けられる場合だけ GitHub に反映する。推測でリポジトリやパスを選ばない。
+- Dropbox と GitHub リポジトリおよびリポジトリ内パスの対応は、`Dropbox\ai\ChatGPT\etc\sources.md` の「GitHub リポジトリの対応」に従う。
+- `sources.md` に対応がない、または対応が矛盾する場合は、ユーザーの明示した対応または確認済みの資料から一意に対応付けられる場合だけ GitHub に反映する。推測でリポジトリやパスを選ばない。
 - GitHub への反映は、更新対象の Dropbox ファイルと GitHub リポジトリ内のファイルパスの対応、書き込み権限、対象ブランチをすべて確認できる場合だけ行う。
 - 対象ブランチはリポジトリの既定ブランチとする。ユーザーが明示的に別のブランチ名を指定した場合だけ、そのブランチを対象にする。既定ブランチまたは指定ブランチを GitHub API で確認できない場合は、GitHub に変更を加えない。
 - GitHub API で対象ブランチの参照、先端コミット、ツリー、更新対象ファイルの内容を取得し、Dropbox の更新済み内容と比較する。
