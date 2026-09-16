@@ -58,3 +58,56 @@
 | `Dropbox\www\studio\textodt.js` | テキストファイルを ODT 形式に変換する JavaScript ライブラリ |
 | `Dropbox\www\studio\wordcount.js` | 文字数を数える JavaScript ライブラリ |
 | `Dropbox\www\studio\yamlparse.js` | YAML を Web 上で読みやすく表示する JavaScript ライブラリ |
+
+## GitHub リポジトリの対応
+
+- この節のリポジトリはすべて GitHub アカウント `satsuki-thyme` のものとする。
+- この対応は GitHub API で反映先候補を特定するために使う。更新前には、リポジトリの存在、書き込み権限、対象ブランチ、更新対象ファイルの対応を確認する。
+- 表にない Dropbox フォルダ、または表の規則だけでリポジトリ内のファイルパスを確認できない場合は、推測で GitHub に変更を加えない。
+
+### ルート対応
+
+| Dropbox フォルダ | GitHub リポジトリ | パスの対応 |
+|---|---|---|
+| `Dropbox\ai` | `satsuki-thyme/ai` | `Dropbox\ai\` より後の相対パスを、区切りを `/` にしてリポジトリ内パスにする。 |
+
+### 小説作品
+
+| Dropbox フォルダまたはパターン | GitHub リポジトリ |
+|---|---|
+| `Dropbox\scribe\novel\opNN` | `satsuki-thyme/opNN` |
+| `Dropbox\scribe\novel\opss\ssopNN` | `satsuki-thyme/opss` |
+| `Dropbox\scribe\novel\novel-etc` | `satsuki-thyme/novel-etc` |
+| `Dropbox\scribe\novel\story-world` | `satsuki-thyme/story-world` |
+| `Dropbox\scribe\project\novel-creating-method` | `satsuki-thyme/novel-creating-method` |
+| `Dropbox\scribe\project\research-of-literary-ornamentation` | `satsuki-thyme/research-of-literary-ornamentation` |
+| `Dropbox\scribe\project\research-of-narrative-construction` | `satsuki-thyme/research-of-narrative-construction` |
+| `Dropbox\scribe\project\research-of-novel-creation` | `satsuki-thyme/research-of-novel-creation` |
+| `Dropbox\scribe\project\research-of-world-building` | `satsuki-thyme/research-of-world-building` |
+| `Dropbox\www\satsuki.c` | `satsuki-thyme/satsuki.c` |
+
+### その他
+
+| Dropbox フォルダ | GitHub リポジトリ |
+|---|---|
+| `Dropbox\external-relations\等身大の点と点委員会` | `satsuki-thyme/life-sized-dot-to-dot-committee` |
+| `Dropbox\www\studio\common` | `satsuki-thyme/common` |
+| `Dropbox\www\satsuki` | `satsuki-thyme/satsuki` |
+| `Dropbox\www\studio\etc` | `satsuki-thyme/etc` |
+
+### ライブラリ
+
+| Dropbox フォルダまたはファイル | GitHub リポジトリ |
+|---|---|
+| `Dropbox\www\studio\brackettool.js` | `satsuki-thyme/brackettool.js` |
+| `Dropbox\www\studio\comparearray.js` | `satsuki-thyme/comparearray.js` |
+| `Dropbox\www\studio\htmlshape.js` | `satsuki-thyme/htmlshape.js` |
+| `Dropbox\www\studio\maketable.js` | `satsuki-thyme/maketable.js` |
+| `Dropbox\www\studio\mdparse.js` | `satsuki-thyme/mdparse.js` |
+| `Dropbox\www\studio\notion-customization` | `satsuki-thyme/notion-customization` |
+| `Dropbox\www\studio\novelparse.js` | `satsuki-thyme/novelparse.js` |
+| `Dropbox\www\studio\replacetool.js` | `satsuki-thyme/replacetool.js` |
+| `Dropbox\www\studio\textodt.js` | `satsuki-thyme/textodt.js` |
+| `Dropbox\www\studio\wordcount.js` | `satsuki-thyme/wordcount.js` |
+| `Dropbox\www\studio\yamlparse.js` | `satsuki-thyme/yamlparse.js` |
+
