@@ -8,7 +8,9 @@
 - ChatGPT/project/comprehensive/instructions-com.md:                        プロジェクトの指示（総合）
 - ChatGPT/project/evaluation-of-scenario/instructions-eos.md:               プロジェクトの指示（シナリオの評価）
 - ChatGPT/project/evaluation-of-written-expression/instructions-eow.md:     プロジェクトの指示（文章表現の評価）
+- ChatGPT/project/instruction-sheet-creator/entry-isc.md:                   カスタム指示のエントリー（指示書クリエイター）
 - ChatGPT/project/instruction-sheet-creator/instructions-isc.md:            プロジェクトの指示（指示書クリエイター）
+- ChatGPT/project/op79/entry-op79.md:                                       カスタム指示のエントリー（制作補助 op79）
 - ChatGPT/project/op79/instructions-op79.md:                                プロジェクトの指示（制作補助 op79）
 - ChatGPT/project/peaceful-sns/instructions-sns.md:                         プロジェクトの指示（穏やかSNS）
 - ChatGPT/project/research-of-literary-ornamentation/consultation-rlo.toml: 相談内容          （文彩の研究）
@@ -19,7 +21,8 @@
 - ChatGPT/project/research-of-world-building/instructions-rwb.md:           プロジェクトの指示（世界設定構築の研究）
 - ChatGPT/project/schedule/instructions-sch.md:                             プロジェクトの指示（スケジュール）
 - ChatGPT/project/summarize/instructions-sum.md:                            プロジェクトの指示（要約）
-- ChatGPT/project/worm-up-dialogue/instructions-wad.md:                     プロジェクトの指示（ウォームアップダイアログ）
+- ChatGPT/project/worm-up-dialogue/entry-wud.md:                            カスタム指示のエントリー（ウォームアップダイアログ）
+- ChatGPT/project/worm-up-dialogue/instructions-wud.md:                     プロジェクトの指示（ウォームアップダイアログ）
 - ChatGPT/project/work-log/instructions-wl.md:                              プロジェクトの指示（作業記録更新）
 
 ### etc
