@@ -24,7 +24,8 @@
 
 ### etc
 
-- ChatGPT/etc/sources.md: 情報源
+- ChatGPT/etc/instructions-base.md: カスタム指示の基本
+- ChatGPT/etc/sources.md:           情報源
 
 ## etc
 
