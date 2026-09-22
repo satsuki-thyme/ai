@@ -16,7 +16,7 @@
 
 - フォルダ `Dropbox\scribe\novel` 以下の正規表現 `/^(?<op>op\d+)$/` にマッチするフォルダは、長編小説作品を収録する。
   - 名前付きキャプチャグループ `op` は、`op65` のような作品識別子全体を取得する。
-- フォルダ `Dropbox\scribe\novel\opss` は短編小説作品をまとめたもので、それ以下にあるフォルダで正規表現 `/^(?<op>ssop\d+)$/` にマッチするものは個別の作品を収録する。
+- フォルダ `Dropbox\scribe\novel\ss` は短編小説作品をまとめたもので、それ以下にあるフォルダで正規表現 `/^(?<op>ssop\d+)$/` にマッチするものは個別の作品を収録する。
   - 名前付きキャプチャグループ `op` は、`ssop008` のような作品識別子全体を取得する。
 
 ### 小説関連
@@ -76,7 +76,7 @@
 | Dropbox フォルダまたはパターン | GitHub リポジトリ |
 |---|---|
 | `Dropbox\scribe\novel\opNN` | `satsuki-thyme/opNN` |
-| `Dropbox\scribe\novel\opss\ssopNN` | `satsuki-thyme/opss` |
+| `Dropbox\scribe\novel\ss\ssopNN` | `satsuki-thyme/ss` |
 | `Dropbox\scribe\novel\novel-etc` | `satsuki-thyme/novel-etc` |
 | `Dropbox\scribe\novel\story-world` | `satsuki-thyme/story-world` |
 | `Dropbox\scribe\project\novel-creating-method` | `satsuki-thyme/novel-creating-method` |
