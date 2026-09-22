@@ -48,6 +48,7 @@
 | フォルダ名 | 内容 |
 |---|---|
 | `Dropbox\www\studio\brackettool.js` | 文書内の括弧を処理する JavaScript ライブラリ |
+| `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図の VS Code 拡張機能 |
 | `Dropbox\www\studio\comparearray.js` | 配列を比較する JavaScript ライブラリ |
 | `Dropbox\www\studio\htmlshape.js` | HTML を整形する JavaScript ライブラリ |
 | `Dropbox\www\studio\maketable.js` | 配列からテーブルを生成する JavaScript ライブラリ |
@@ -100,6 +101,7 @@
 | Dropbox フォルダまたはファイル | GitHub リポジトリ |
 |---|---|
 | `Dropbox\www\studio\brackettool.js` | `satsuki-thyme/brackettool.js` |
+| `Dropbox\www\studio\character-relationship-chart` | `satsuki-thyme/character-relationship-chart` |
 | `Dropbox\www\studio\comparearray.js` | `satsuki-thyme/comparearray.js` |
 | `Dropbox\www\studio\htmlshape.js` | `satsuki-thyme/htmlshape.js` |
 | `Dropbox\www\studio\maketable.js` | `satsuki-thyme/maketable.js` |
@@ -110,4 +112,3 @@
 | `Dropbox\www\studio\textodt.js` | `satsuki-thyme/textodt.js` |
 | `Dropbox\www\studio\wordcount.js` | `satsuki-thyme/wordcount.js` |
 | `Dropbox\www\studio\yamlparse.js` | `satsuki-thyme/yamlparse.js` |
-
