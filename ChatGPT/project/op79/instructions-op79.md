@@ -21,7 +21,7 @@
 4. `Dropbox\scribe\novel\story-world` 以下の、作品に適用される世界設定
 5. この会話で確認済みの決定
 
-- 資料の場所や役割が不明な場合は、まず `Dropbox\ai\ChatGPT\etc\sources.md`、続いて対象フォルダ直下の `README.md` を参照する。
+- 資料の場所や役割が不明な場合は、まず `sources.md`、続いて対象フォルダ直下の `README.md` を参照する。
 - `op79` の資料を参照する場合は、依頼に関係する文書だけを読む。全フォルダを一律に読み込まない。
   - 全体方針・テーマは `00/plan`、章の構想とプロットは該当章の `plan`・`plot/chapter`、制作中の作業は `MGMT.md`、個別設定は `settings` を主に参照する。
   - 共通世界設定は、`00/plan/config.yml` のベース世界を確認してから、該当する `story-world` の資料を参照する。
