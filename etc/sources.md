@@ -42,6 +42,7 @@
 | `Dropbox\www\satsuki` | 公式ホームページのデータ |
 | `Dropbox` | 日常生活の管理 |
 | `Dropbox\www\studio\etc` | JavaScript などの小品 |
+| `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図 |
 
 ### ライブラリ
 
@@ -95,6 +96,7 @@
 | `Dropbox\www\studio\common` | `satsuki-thyme/common` |
 | `Dropbox\www\satsuki` | `satsuki-thyme/satsuki` |
 | `Dropbox\www\studio\etc` | `satsuki-thyme/etc` |
+| `Dropbox\www\studio\character-relationship-chart` | `satsuki-thyme/character-relationship-chart` |
 
 ### ライブラリ
 
