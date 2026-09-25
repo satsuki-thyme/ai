@@ -2,6 +2,10 @@
 
 ## ChatGPT
 
+### 開発運用方式
+
+- development-and-operations-model/idad-v1.md: 意図主導型AI開発（Intent-Driven AI Development / IDAD） v1
+
 ### プロジェクト
 
 - ChatGPT/project/analytics-of-novels-on-novel-site/instructions-aon.md:    プロジェクトの指示（小説サイトの小説の分析）
