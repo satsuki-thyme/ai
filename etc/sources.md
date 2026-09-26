@@ -19,100 +19,69 @@
 - フォルダ `Dropbox\scribe\novel\ss` は短編小説作品をまとめたもので、それ以下にあるフォルダで正規表現 `/^(?<op>ssop\d+)$/` にマッチするものは個別の作品を収録する。
   - 名前付きキャプチャグループ `op` は、`ssop008` のような作品識別子全体を取得する。
 
-### 小説関連
+### 小説制作関連
 
-| フォルダ名 | 内容 |
-|---|---|
-| `Dropbox\scribe\novel\novel-etc` | 小説に関するその他の情報 |
-| `Dropbox\scribe\novel\story-world` | 小説作品の世界設定 |
-| `Dropbox\scribe\project\novel-creating-method` | 小説の制作手法 |
-| `Dropbox\scribe\project\research-of-literary-ornamentation` | 文彩の研究 |
-| `Dropbox\scribe\project\research-of-narrative-construction` | 物語構築の研究 |
-| `Dropbox\scribe\project\research-of-novel-creation` | 小説制作の研究 |
-| `Dropbox\scribe\project\research-of-world-building` | 世界設定の研究 |
-| `Dropbox\www\satsuki.c` | 小説制作サポートサイト |
+| Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
+|---|---|---|
+| `Dropbox\scribe\novel\opNN` | 長編小説作品群 | `satsuki-thyme/opNN` |
+| `Dropbox\scribe\novel\ss\ssopNN` | ショートストーリー作品群 | `satsuki-thyme/ss` |
+| `Dropbox\scribe\novel\novel-etc` | 小説に関するその他の情報 | `satsuki-thyme/novel-etc` |
+| `Dropbox\scribe\novel\story-world` | 小説作品の世界設定 | `satsuki-thyme/story-world` |
+| `Dropbox\www\satsuki.c` | 小説制作サポートサイト | `satsuki-thyme/satsuki.c` |
+
+### 小説学習・研究
+
+| Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
+|---|---|---|
+| `Dropbox\scribe\project\novel-creating-method` | 小説の制作手法 | `satsuki-thyme/novel-creating-method` |
+| `Dropbox\scribe\project\research-of-literary-ornamentation` | 文彩の研究 | `satsuki-thyme/research-of-literary-ornamentation` |
+| `Dropbox\scribe\project\research-of-narrative-construction` | 物語構築の研究 | `satsuki-thyme/research-of-narrative-construction` |
+| `Dropbox\scribe\project\research-of-novel-creation` | 小説制作の研究 | `satsuki-thyme/research-of-novel-creation` |
+| `Dropbox\scribe\project\research-of-world-building` | 世界設定の研究 | `satsuki-thyme/research-of-world-building` |
+
+### コンピュータ機能開発
+
+| Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
+|---|---|---|
+| `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図 | `satsuki-thyme/character-relationship-chart` |
+| `Dropbox\www\studio\KALA-Timer` | KALA Timer | `satsuki-thyme/KALA-Timer` |
+| `Dropbox\www\studio\quick-highlight` | ハイライトのVS Code拡張機能 | なし |
+| `Dropbox\scribe\project\novel-creator` | 小説クリエイター（ChatGPTプロジェクト） | `satsuki-thyme/novel-creator` |
+
+### ルート対応
+
+| Dropbox フォルダまたはパターン | AI の運用に関するデータ | GitHub リポジトリ | パスの対応 |
+|---|---|---|---|
+| `Dropbox\ai` | `satsuki-thyme/ai` | `Dropbox\ai\` より後の相対パスを、区切りを `/` にしてリポジトリ内パスにする。 |
 
 ### その他
 
-| フォルダ名 | 内容 |
-|---|---|
-| `Dropbox\ai` | AI の運用に関するデータ |
-| `Dropbox\external-relations\等身大の点と点委員会` | 等身大の点と点委員会に関するデータ |
-| `Dropbox\www\studio\common` | 複数の用途で共有するデータ |
-| `Dropbox\www\satsuki` | 公式ホームページのデータ |
-| `Dropbox` | 日常生活の管理 |
-| `Dropbox\www\studio\etc` | JavaScript などの小品 |
-| `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図 |
-| `Dropbox\www\studio\KALA-Timer` | KALA Timer |
+| Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
+|---|---|---|
+| `Dropbox\external-relations\等身大の点と点委員会` | 等身大の点と点委員会に関するデータ | `satsuki-thyme/life-sized-dot-to-dot-committee` |
+| `Dropbox\www\satsuki` | 公式ホームページのデータ | `satsuki-thyme/satsuki` |
+| `Dropbox` | 日常生活の管理 | なし |
 
-### ライブラリ
+### 趣味のプログラミング関連
 
-| フォルダ名 | 内容 |
-|---|---|
-| `Dropbox\www\studio\brackettool.js` | 文書内の括弧を処理する JavaScript ライブラリ |
-| `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図の VS Code 拡張機能 |
-| `Dropbox\www\studio\comparearray.js` | 配列を比較する JavaScript ライブラリ |
-| `Dropbox\www\studio\htmlshape.js` | HTML を整形する JavaScript ライブラリ |
-| `Dropbox\www\studio\maketable.js` | 配列からテーブルを生成する JavaScript ライブラリ |
-| `Dropbox\www\studio\mdparse.js` | Markdown を HTML に変換する JavaScript ライブラリ |
-| `Dropbox\www\studio\notion-customization` | ユーザー CSS によって Notion の Web サイトをカスタマイズするためのデータ |
-| `Dropbox\www\studio\novelparse.js` | Web 小説の文書を HTML に変換する JavaScript ライブラリ |
-| `Dropbox\www\studio\replacetool.js` | 文字列の置換処理を行う JavaScript ライブラリ |
-| `Dropbox\www\studio\textodt.js` | テキストファイルを ODT 形式に変換する JavaScript ライブラリ |
-| `Dropbox\www\studio\wordcount.js` | 文字数を数える JavaScript ライブラリ |
-| `Dropbox\www\studio\yamlparse.js` | YAML を Web 上で読みやすく表示する JavaScript ライブラリ |
+| Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
+|---|---|---|
+| `Dropbox\www\studio\etc` | JavaScript などの小品 | `satsuki-thyme/etc` |
+| `Dropbox\www\studio\common` | 複数の用途で共有するデータ | `satsuki-thyme/common` |
+| `Dropbox\www\studio\brackettool.js` | 文書内の括弧を処理する JavaScript ライブラリ | `satsuki-thyme/brackettool.js` |
+| `Dropbox\www\studio\comparearray.js` | 配列を比較する JavaScript ライブラリ | `satsuki-thyme/comparearray.js` |
+| `Dropbox\www\studio\htmlshape.js` | HTML を整形する JavaScript ライブラリ | `satsuki-thyme/htmlshape.js` |
+| `Dropbox\www\studio\maketable.js` | 配列からテーブルを生成する JavaScript ライブラリ | `satsuki-thyme/maketable.js` |
+| `Dropbox\www\studio\mdparse.js` | Markdown を HTML に変換する JavaScript ライブラリ | `satsuki-thyme/mdparse.js` |
+| `Dropbox\www\studio\notion-customization` | ユーザー CSS によって Notion の Web サイトをカスタマイズするためのデータ | `satsuki-thyme/notion-customization` |
+| `Dropbox\www\studio\novelparse.js` | Web 小説の文書を HTML に変換する JavaScript ライブラリ | `satsuki-thyme/novelparse.js` |
+| `Dropbox\www\studio\replacetool.js` | 文字列の置換処理を行う JavaScript ライブラリ | `satsuki-thyme/replacetool.js` |
+| `Dropbox\www\studio\textodt.js` | テキストファイルを ODT 形式に変換する JavaScript ライブラリ | `satsuki-thyme/textodt.js` |
+| `Dropbox\www\studio\wordcount.js` | 文字数を数える JavaScript ライブラリ | `satsuki-thyme/wordcount.js` |
+| `Dropbox\www\studio\yamlparse.js` | YAML を Web 上で読みやすく表示する JavaScript ライブラリ | `satsuki-thyme/yamlparse.js` |
 
 ## GitHub リポジトリの対応
 
 - この節のリポジトリはすべて GitHub アカウント `satsuki-thyme` のものとする。
 - この対応は GitHub API で反映先候補を特定するために使う。更新前には、リポジトリの存在、書き込み権限、対象ブランチ、更新対象ファイルの対応を確認する。
 - 表にない Dropbox フォルダ、または表の規則だけでリポジトリ内のファイルパスを確認できない場合は、推測で GitHub に変更を加えない。
-
-### ルート対応
-
-| Dropbox フォルダ | GitHub リポジトリ | パスの対応 |
-|---|---|---|
-| `Dropbox\ai` | `satsuki-thyme/ai` | `Dropbox\ai\` より後の相対パスを、区切りを `/` にしてリポジトリ内パスにする。 |
-
-### 小説関連
-
-| Dropbox フォルダまたはパターン | GitHub リポジトリ |
-|---|---|
-| `Dropbox\scribe\novel\opNN` | `satsuki-thyme/opNN` |
-| `Dropbox\scribe\novel\ss\ssopNN` | `satsuki-thyme/ss` |
-| `Dropbox\scribe\novel\novel-etc` | `satsuki-thyme/novel-etc` |
-| `Dropbox\scribe\novel\story-world` | `satsuki-thyme/story-world` |
-| `Dropbox\scribe\project\novel-creating-method` | `satsuki-thyme/novel-creating-method` |
-| `Dropbox\scribe\project\research-of-literary-ornamentation` | `satsuki-thyme/research-of-literary-ornamentation` |
-| `Dropbox\scribe\project\research-of-narrative-construction` | `satsuki-thyme/research-of-narrative-construction` |
-| `Dropbox\scribe\project\research-of-novel-creation` | `satsuki-thyme/research-of-novel-creation` |
-| `Dropbox\scribe\project\research-of-world-building` | `satsuki-thyme/research-of-world-building` |
-| `Dropbox\www\satsuki.c` | `satsuki-thyme/satsuki.c` |
-
-### その他
-
-| Dropbox フォルダ | GitHub リポジトリ |
-|---|---|
-| `Dropbox\external-relations\等身大の点と点委員会` | `satsuki-thyme/life-sized-dot-to-dot-committee` |
-| `Dropbox\www\studio\common` | `satsuki-thyme/common` |
-| `Dropbox\www\satsuki` | `satsuki-thyme/satsuki` |
-| `Dropbox\www\studio\etc` | `satsuki-thyme/etc` |
-| `Dropbox\www\studio\character-relationship-chart` | `satsuki-thyme/character-relationship-chart` |
-| `Dropbox\www\studio\KALA-Timer` | `satsuki-thyme/KALA-Timer` |
-
-### ライブラリ
-
-| Dropbox フォルダまたはファイル | GitHub リポジトリ |
-|---|---|
-| `Dropbox\www\studio\brackettool.js` | `satsuki-thyme/brackettool.js` |
-| `Dropbox\www\studio\character-relationship-chart` | `satsuki-thyme/character-relationship-chart` |
-| `Dropbox\www\studio\comparearray.js` | `satsuki-thyme/comparearray.js` |
-| `Dropbox\www\studio\htmlshape.js` | `satsuki-thyme/htmlshape.js` |
-| `Dropbox\www\studio\maketable.js` | `satsuki-thyme/maketable.js` |
-| `Dropbox\www\studio\mdparse.js` | `satsuki-thyme/mdparse.js` |
-| `Dropbox\www\studio\notion-customization` | `satsuki-thyme/notion-customization` |
-| `Dropbox\www\studio\novelparse.js` | `satsuki-thyme/novelparse.js` |
-| `Dropbox\www\studio\replacetool.js` | `satsuki-thyme/replacetool.js` |
-| `Dropbox\www\studio\textodt.js` | `satsuki-thyme/textodt.js` |
-| `Dropbox\www\studio\wordcount.js` | `satsuki-thyme/wordcount.js` |
-| `Dropbox\www\studio\yamlparse.js` | `satsuki-thyme/yamlparse.js` |
