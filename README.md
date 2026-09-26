@@ -31,6 +31,11 @@
 - ChatGPT/project/worm-up-dialogue/instructions-wud.md:                     プロジェクトの指示（ウォームアップダイアログ）
 - ChatGPT/project/work-log/instructions-wl.md:                              プロジェクトの指示（作業記録更新）
 
+## スケジュール
+
+- Dropbox/ai/ChatGPT/schedule/diary-seed/instructions-sch-ds.md             スケジュール作成指示（日記の種ファイル）
+- Dropbox/ai/ChatGPT/schedule/work-log/instructions-sch-wl.md               スケジュール作成指示（作業記録更新）
+
 ### etc
 
 - etc/instructions-base.md: カスタム指示の基本

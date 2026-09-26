@@ -43,6 +43,7 @@
 | `Dropbox` | 日常生活の管理 |
 | `Dropbox\www\studio\etc` | JavaScript などの小品 |
 | `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図 |
+| `Dropbox\www\studio\KALA-Timer` | KALA Timer |
 
 ### ライブラリ
 
@@ -97,6 +98,7 @@
 | `Dropbox\www\satsuki` | `satsuki-thyme/satsuki` |
 | `Dropbox\www\studio\etc` | `satsuki-thyme/etc` |
 | `Dropbox\www\studio\character-relationship-chart` | `satsuki-thyme/character-relationship-chart` |
+| `Dropbox\www\studio\KALA-Timer` | `satsuki-thyme/KALA-Timer` |
 
 ### ライブラリ
 
