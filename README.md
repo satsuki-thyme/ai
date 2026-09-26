@@ -10,6 +10,8 @@
 
 - ChatGPT/project/analytics-of-novels-on-novel-site/instructions-aon.md:    プロジェクトの指示（小説サイトの小説の分析）
 - ChatGPT/project/comprehensive/instructions-com.md:                        プロジェクトの指示（総合）
+- ChatGPT/project/diary-analysis/instructions-dia.md:                       プロジェクトの指示（日記診断）
+- ChatGPT/project/eight-character-tests/instructions-ect.md:                プロジェクトの指示（人物八試）
 - ChatGPT/project/evaluation-of-scenario/instructions-eos.md:               プロジェクトの指示（シナリオの評価）
 - ChatGPT/project/evaluation-of-written-expression/instructions-eow.md:     プロジェクトの指示（文章表現の評価）
 - ChatGPT/project/instruction-sheet-creator/entry-isc.md:                   カスタム指示のエントリー（指示書クリエイター）
