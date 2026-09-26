@@ -45,7 +45,7 @@
 |---|---|---|
 | `Dropbox\www\studio\character-relationship-chart` | キャラクター相関図 | `satsuki-thyme/character-relationship-chart` |
 | `Dropbox\www\studio\KALA-Timer` | KALA Timer | `satsuki-thyme/KALA-Timer` |
-| `Dropbox\www\studio\quick-highlight` | ハイライトのVS Code拡張機能 | なし |
+| `Dropbox\www\studio\Quick-Highlight` | ハイライトのVS Code拡張機能 | なし |
 | `Dropbox\scribe\project\novel-creator` | 小説クリエイター（ChatGPTプロジェクト） | `satsuki-thyme/novel-creator` |
 
 ### ルート対応
