@@ -33,7 +33,6 @@
 
 ## スケジュール
 
-- Dropbox/ai/ChatGPT/schedule/diary-seed/instructions-sch-ds.md             スケジュール作成指示（日記の種ファイル）
 - Dropbox/ai/ChatGPT/schedule/work-log/instructions-sch-wl.md               スケジュール作成指示（作業記録更新）
 
 ### etc
