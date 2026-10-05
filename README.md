@@ -9,6 +9,8 @@
 ### プロジェクト
 
 - ChatGPT/project/analytics-of-novels-on-novel-site/instructions-aon.md:    プロジェクトの指示（小説サイトの小説の分析）
+- ChatGPT/project/character-relationship-chart/instructions-crc.md:         プロジェクトの指示（Character Relationship Chart）
+- ChatGPT/project/ChatGPT-Response-Notification/instructions-crn.md:        プロジェクトの指示（ChatGPT Response Notification）
 - ChatGPT/project/comprehensive/instructions-com.md:                        プロジェクトの指示（総合）
 - ChatGPT/project/diary-analysis/instructions-dia.md:                       プロジェクトの指示（日記診断）
 - ChatGPT/project/eight-character-tests/instructions-ect.md:                プロジェクトの指示（人物八試）
@@ -19,6 +21,7 @@
 - ChatGPT/project/op79/entry-op79.md:                                       カスタム指示のエントリー（制作補助 op79）
 - ChatGPT/project/op79/instructions-op79.md:                                プロジェクトの指示（制作補助 op79）
 - ChatGPT/project/peaceful-sns/instructions-sns.md:                         プロジェクトの指示（穏やかSNS）
+- ChatGPT/project/quick-highlight/instructions-qh.md:                       プロジェクトの指示（Quick Highlight）
 - ChatGPT/project/research-of-literary-ornamentation/consultation-rlo.toml: 相談内容          （文彩の研究）
 - ChatGPT/project/research-of-literary-ornamentation/instructions-rlo.md:   プロジェクトの指示（文彩の研究）
 - ChatGPT/project/research-of-narrative-construction/consultation-rnc.toml: 相談内容          （物語構築の研究）
