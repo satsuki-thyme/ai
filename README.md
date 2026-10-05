@@ -40,9 +40,7 @@
 
 ### etc
 
+- etc/display.yml:          AI利用の表示
+- etc/file-update-rule.md:  ファイル更新のルール（指示）
 - etc/instructions-base.md: カスタム指示の基本
 - etc/sources.md:           情報源
-
-## etc
-
-- ChatGPT/etc/display.yml: AI利用の表示
