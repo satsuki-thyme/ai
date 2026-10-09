@@ -8,7 +8,6 @@
 
 ### プロジェクト
 
-- ChatGPT/project/analytics-of-novels-on-novel-site/instructions-aon.md:    プロジェクトの指示（小説サイトの小説の分析）
 - ChatGPT/project/character-relationship-chart/instructions-crc.md:         プロジェクトの指示（Character Relationship Chart）
 - ChatGPT/project/ChatGPT-Response-Notification/instructions-crn.md:        プロジェクトの指示（ChatGPT Response Notification）
 - ChatGPT/project/comprehensive/instructions-com.md:                        プロジェクトの指示（総合）
@@ -33,6 +32,12 @@
 - ChatGPT/project/worm-up-dialogue/entry-wud.md:                            カスタム指示のエントリー（ウォームアップダイアログ）
 - ChatGPT/project/worm-up-dialogue/instructions-wud.md:                     プロジェクトの指示（ウォームアップダイアログ）
 - ChatGPT/project/work-log/instructions-wl.md:                              プロジェクトの指示（作業記録更新）
+
+#### アーカイブ
+
+- ChatGPT/project/archive/KALA-Timer/instructions-kala.md:                  プロジェクトの指示（KALA Timer）
+- ChatGPT/project/archive/novel-creation/consultation-nc.toml:              相談内容          （小説制作）
+- ChatGPT/project/archive/novel-creation/instructions-nc.md:                プロジェクトの指示（小説制作）
 
 ## スケジュール
 
