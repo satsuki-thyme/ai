@@ -17,6 +17,8 @@
 - ChatGPT/project/evaluation-of-written-expression/instructions-eow.md:     プロジェクトの指示（文章表現の評価）
 - ChatGPT/project/instruction-sheet-creator/entry-isc.md:                   カスタム指示のエントリー（指示書クリエイター）
 - ChatGPT/project/instruction-sheet-creator/instructions-isc.md:            プロジェクトの指示（指示書クリエイター）
+- ChatGPT/project/MDprev-via-JSproc/instructions-mdpjsp.md:                 プロジェクトの指示（MDprev via JSproc）
+- ChatGPT/project/MDprev-via-JSproc/seed-prompt-mdpjsp.md:                  シードプロンプト（MDprev via JSproc）
 - ChatGPT/project/op79/entry-op79.md:                                       カスタム指示のエントリー（制作補助 op79）
 - ChatGPT/project/op79/instructions-op79.md:                                プロジェクトの指示（制作補助 op79）
 - ChatGPT/project/peaceful-sns/instructions-sns.md:                         プロジェクトの指示（穏やかSNS）

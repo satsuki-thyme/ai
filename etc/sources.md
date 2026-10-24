@@ -43,6 +43,7 @@
 
 | Dropbox フォルダまたはパターン | 内容 | GitHub リポジトリ |
 |---|---|---|
+| `Dropbox\www\studio\MDprev-via-JSproc` | MDprev via JSproc | `satsuki-thyme/MDprev-via-JSproc` |
 | `Dropbox\www\studio\character-relationship-chart` | Character Relationship Chart | `satsuki-thyme/character-relationship-chart` |
 | `Dropbox\www\studio\Tampermonkey\ChatGPT-Response-Notification` | ChatGPT Response Notification | `satsuki-thyme/ChatGPT-Response-Notification` |
 | `Dropbox\www\studio\KALA-Timer` | KALA Timer | `satsuki-thyme/KALA-Timer` |
