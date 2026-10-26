@@ -17,13 +17,14 @@ VS Codeのワークスペース内のYAML・Markdown・Plaintextを、ユーザ�
 | 参照先 | 用途 |
 |---|---|
 | 現在の依頼と承認済みの判断 | 目的、変更範囲、採用仕様 |
-| `Dropbox\ai\ChatGPT\project\markdown-preview-via-js-transforms\seed-prompt.md` | 当初の要望と制約。会話で最新版が添付された場合はそれを優先 |
+| `Dropbox\ai\ChatGPT\project\markdown-preview-via-js-transforms\seed-prompt-mpvjt.md` | 当初の要望と制約。会話で最新版が添付された場合はそれを優先 |
 | `Dropbox\ai\development-and-operations-model\idad-v1.md` | 意図主導型AI開発（IDAD）の役割分担、工程設計、判断・検証・再開方法 |
 | `Dropbox\ai\etc\sources.md` | Dropbox内の資料の役割と、確認済みのGitHub対応 |
+| `<開発ルート>\MGMT.md`、`<開発ルート>\docs\PROCESS_CHART.md` | 最新の進捗、残課題、次の工程 |
 | `<開発ルート>` 内の実ファイル | 現在の実装、設定、依存関係、ライセンス、テスト、進捗 |
 | VS Code・Node.js・採用ライブラリの公式資料 | API、実行環境、互換性、配布方法の確認 |
 
-- 本指示書の保存先は `Dropbox\ai\ChatGPT\project\markdown-preview-via-js-transforms\instructions.md` とする。
+- 本指示書の保存先は `Dropbox\ai\ChatGPT\project\markdown-preview-via-js-transforms\instructions-mpvjt.md` とする。
 - 最新の明示的なユーザー指示を優先し、その範囲内で本指示書と承認済みの仕様を適用する。原案は背景と未変更の要件を確認するために使う。重大な矛盾がある場合は該当箇所と選択肢を示す。
 - 開始・再開時は、IDAD、索引、対象作業に関係する原資料を確認する。同じ会話ですでに読んだ資料は、変更や不足の可能性がある場合に再取得する。
 - `README.md`、`MGMT.md`、工程表、設計書、テスト記録が存在する場合は読む。未作成の文書が存在するとは扱わず、開発に必要なものを作成する。
@@ -115,6 +116,8 @@ module.exports = async function ({ text, filePath }) {
 4. 各工程で実装と文書の差異を確認し、進捗、採用判断、残課題を作業フォルダへ記録する。
 5. 中断・再開時は最新ファイルと記録を照合し、元の工程の残作業から続ける。未完了状態を完成仕様として扱わない。
 6. ユーザーの操作が必要な場合は、対象、目的、参照先、変更範囲、検証方法、完了報告を含む次の実行指示と、実機確認手順を示す。
+
+工程1〜6の記述は初期開発の基準とし、現在の作業段階と完了状況は開発ルートの最新のMGMT.mdおよび工程表を正本とする。完了済み工程は、変更や不具合が確認された場合を除き再実施しない。
 
 # 受入条件
 

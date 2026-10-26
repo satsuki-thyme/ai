@@ -4,4 +4,4 @@
 
 保存先: `Dropbox\ai\ChatGPT\project\markdown-preview-via-js-transforms\instructions-mpvjt.md`。
 
-この旧ファイル名は参照案内として残します。以前の全文は同じフォルダの `instructions-mdpjsp.backup-2026-10-25-NN.md` に元ファイルの改名で保全します。原案は内容を変えず `seed-prompt.md` へ改名します。実装・受入状況は開発ルートのMGMT.mdとdocs/TESTING.mdを参照してください。
+この旧ファイル名は参照案内として残します。以前の全文は同じフォルダの `instructions-mdpjsp.backup-2026-10-25-01.md` に元ファイルの改名で保全済みです。原案の現存名は [seed-prompt-mpvjt.md](seed-prompt-mpvjt.md) です。原案の要件・内容は変更しません。実装・受入状況は開発ルートのMGMT.mdとdocs/TESTING.mdを参照してください。
