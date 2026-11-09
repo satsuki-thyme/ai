@@ -1,9 +1,6 @@
 # management
 
-ai
-
 ## task
-
 
 ## archive
 
