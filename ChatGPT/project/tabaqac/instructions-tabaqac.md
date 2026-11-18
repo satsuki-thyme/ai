@@ -18,7 +18,7 @@ VS Code拡張機能 `Dropbox\www\studio\tabaqac` を、既存の設定継承・�
 - 要望：`Dropbox\ai\ChatGPT\project\tabaqac\hope-tabaqac.md`
 - 本指示書：`Dropbox\ai\ChatGPT\project\tabaqac\instructions-tabaqac.md`
 - 共通開発方式：`Dropbox\ai\development-and-operations-model\idad-v1.md`
-- フォルダ索引：`Dropbox\ai\ChatGPT\etc\sources.md`。取得できない場合は、共通索引 `Dropbox\ai\etc\sources.md` を確認し、代わりに用いたことを明示する。
+- フォルダ索引：`Dropbox\ai\etc\sources.md`。
 - Dropboxへの保存手順：ChatGPT Libraryの `/references/chatgpt-file-handoff-to-dropbox.md`
 
 拡張本体では、まず `README.md`、`package.json`、`package-lock.json`、`tsconfig.json`、`schema.json`、`src/extension.ts`、`src/settings-merger.ts`、`src/test/` を確認する。管理・工程・設計文書や作業規則が存在する場合は併読する。列挙した構成を固定の現状とみなさず、着手時に実在と内容を確認する。
